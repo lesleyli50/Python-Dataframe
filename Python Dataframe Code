@@ -1,0 +1,3 @@
+Count 
+df.groupby(‘column’, as_index=False, dropna=False).size()
+
